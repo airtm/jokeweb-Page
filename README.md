@@ -3,7 +3,7 @@
 woaixiaaiwo/jokeweb-page
 
 ## 项目说明
-1. jokeweb(https://github.com/woaixiaaiwo/jokeweb/)的前端页面，技术选型目前是html5 + vue2.0（es6）+ nodejs
+1. jokeweb(https://github.com/woaixiaaiwo/jokeweb/) 的前端页面，技术选型目前是html5 + vue2.0（es6）+ nodejs
 
 2. 环境准备：
 - 本地node环境搭建，安装nodejs，node.js的官方地址为：https://nodejs.org/en/download/ 国内地址为http://nodejs.cn/download/
