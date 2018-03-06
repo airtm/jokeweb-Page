@@ -1,18 +1,19 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
+  <div id="app22">
+   <!-- <img src="./assets/logo.png"> --> 
+   笑话精选
     <router-view/>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'App1'
 }
 </script>
 
 <style>
-#app {
+#app22 {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
